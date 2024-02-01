@@ -111,7 +111,6 @@ body .mainHeart svg .drawHeart {
 }
 body .greeting {
   font-size: 100px;
-  height: 90px;
   font-family: "Amatic SC", cursive;
   text-align: center;
   font-size: 45px;
@@ -119,7 +118,7 @@ body .greeting {
   bottom: 5%;
   left: 0;
   width: 100%;
-  height: 90px;
+  height: 120px;
   line-height: 1;
   overflow: hidden;
   display: flex;
